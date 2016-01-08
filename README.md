@@ -1,3 +1,3 @@
 # NMRIH
 
-Die Sicherheitskopie (m)einer NMRIH-MP Map.
+Die Sicherheitskopie meiner NMRIH-MP Map.
